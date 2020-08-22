@@ -705,6 +705,13 @@ html{
     .navbar-wrapper {
       padding: 0;
     }
+
+    .card-wrapper{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
   
     .close-navbar-icon {
       right: 4rem;
